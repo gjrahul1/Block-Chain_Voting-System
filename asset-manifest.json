@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Block-Chain_Voting_System/tree/main/block-chain/static/css/main.f855e6bc.css",
-    "main.js": "/Block-Chain_Voting_System/tree/main/block-chain/static/js/main.f679c88a.js",
-    "static/js/787.faccf776.chunk.js": "/Block-Chain_Voting_System/tree/main/block-chain/static/js/787.faccf776.chunk.js",
-    "index.html": "/Block-Chain_Voting_System/tree/main/block-chain/index.html",
-    "main.f855e6bc.css.map": "/Block-Chain_Voting_System/tree/main/block-chain/static/css/main.f855e6bc.css.map",
-    "main.f679c88a.js.map": "/Block-Chain_Voting_System/tree/main/block-chain/static/js/main.f679c88a.js.map",
-    "787.faccf776.chunk.js.map": "/Block-Chain_Voting_System/tree/main/block-chain/static/js/787.faccf776.chunk.js.map"
+    "main.css": "/Block-Chain_Voting-System/tree/main/block-chain/src/Components/static/css/main.f855e6bc.css",
+    "main.js": "/Block-Chain_Voting-System/tree/main/block-chain/src/Components/static/js/main.1357ee5e.js",
+    "static/js/787.faccf776.chunk.js": "/Block-Chain_Voting-System/tree/main/block-chain/src/Components/static/js/787.faccf776.chunk.js",
+    "index.html": "/Block-Chain_Voting-System/tree/main/block-chain/src/Components/index.html",
+    "main.f855e6bc.css.map": "/Block-Chain_Voting-System/tree/main/block-chain/src/Components/static/css/main.f855e6bc.css.map",
+    "main.1357ee5e.js.map": "/Block-Chain_Voting-System/tree/main/block-chain/src/Components/static/js/main.1357ee5e.js.map",
+    "787.faccf776.chunk.js.map": "/Block-Chain_Voting-System/tree/main/block-chain/src/Components/static/js/787.faccf776.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.f679c88a.js"
+    "static/js/main.1357ee5e.js"
   ]
 }
