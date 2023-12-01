@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Block-Chain_Voting_System/static/css/main.f855e6bc.css",
+    "main.js": "/Block-Chain_Voting_System/static/js/main.4bce4979.js",
+    "static/js/787.faccf776.chunk.js": "/Block-Chain_Voting_System/static/js/787.faccf776.chunk.js",
+    "index.html": "/Block-Chain_Voting_System/index.html",
+    "main.f855e6bc.css.map": "/Block-Chain_Voting_System/static/css/main.f855e6bc.css.map",
+    "main.4bce4979.js.map": "/Block-Chain_Voting_System/static/js/main.4bce4979.js.map",
+    "787.faccf776.chunk.js.map": "/Block-Chain_Voting_System/static/js/787.faccf776.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.4bce4979.js"
+  ]
+}
